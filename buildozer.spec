@@ -5,7 +5,7 @@ package.domain = org.shivanna.chess
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
-requirements = python3==3.11.0,kivy==2.2.1
+requirements = python3,kivy==2.3.0
 orientation = landscape
 fullscreen = 0
 android.permissions = INTERNET
